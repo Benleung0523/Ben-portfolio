@@ -7,6 +7,7 @@ Classification of covid-19 patients and non covid-19 patients by logeistic regre
 ![alt text](https://github.com/Benleung0523/Ben-portfolio/blob/master/lr.png?raw=true "Logo Title Text 1")
 # [3.Neutral Network](https://github.com/Benleung0523/Covid19_prediction/blob/master/neural%20network.ipynb)
 Classification of covid-19 patients and non covid-19 patients by Neutral Network.
+
 ![alt text](https://github.com/Benleung0523/Ben-portfolio/blob/master/download.png?raw=true "Logo Title Text 1")
 # [4.An data analysis of ABC headlines](https://github.com/Benleung0523/abcheadlines/blob/master/ABC_headlines.ipynb)
 It analysed the distribution of topic of ABC headline over last decade.Topic prediction was applied in the analysis.
